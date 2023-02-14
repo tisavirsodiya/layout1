@@ -98,7 +98,23 @@ margin-top:0px;
   margin-top: -346px;
   margin-right: 61px;
  }
- .icon
+ .icon .mask
  {
-  margin-inline:50px;
+  display:inline;
+  margin-inline:100px;
+ }
+ .word .line
+ {
+   display:inline;
+   margin-inline:95px;
+   color:blue;
+   font-size: medium;
+   text-align:right;
+
+ }
+ .contact
+ {
+color:blue;
+text-align: left;
+padding-left: 100px;
  }
